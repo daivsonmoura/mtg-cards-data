@@ -1,17 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Ad Nauseam",
-    "set_code": "2XM",
-    "set_name": "Double Masters",
-    "card_number": "76",
-    "printing": "Normal",
-    "language": "English",
-    "price_nzd": 27.99,
-    "quantity": 1,
-    "dateAdded": "2025-12-08T00:00:00"
-  },
-  {
+    {
     "id": 2,
     "name": "Aether Gust",
     "set_code": "M20",
@@ -3995,4 +3983,5 @@
     "quantity": 1,
     "dateAdded": "2026-02-22T00:00:00"
   }
+
 ]
